@@ -1,7 +1,9 @@
-### Hi there, my name is Levid Lima 👋 programming student passionate about technology and changing people's lives through programming.
+### Hi there, my name is Levid Lima 👋 programming student passionate about technology and changing people's lives through programming. 
+### Graduating in Information Systems at IFAL - Campus Arapiraca 👨‍🎓
+
+### My contacts 📞
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levidlima)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levid-lima-326311260)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/dl)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levidlima70@gmail.com)
 
 ![Levid GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVLevid&show_icons=true&theme=transparent)
