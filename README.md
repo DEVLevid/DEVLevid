@@ -6,11 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levid-lima-326311260)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levidlima70@gmail.com)
 
-[![Levid GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DEVLevid&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
 ## Technologies I use 👾
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVLevid&hide_progress=truetitle_color&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
