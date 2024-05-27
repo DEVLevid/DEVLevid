@@ -1,4 +1,5 @@
-### Hi there, my name is Levid Lima 👋 programming student passionate about technology and changing people's lives through programming. 
+# Hi there, my name is Levid 👋
+### Frontend Developer passionate about technology and changing people's lives through programming. 
 ### Graduating in Information Systems at IFAL - Campus Arapiraca 👨‍🎓
 
 ### My contacts 📞
