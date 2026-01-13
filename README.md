@@ -1,11 +1,11 @@
-# 👩🏻‍💻 Levid Lima
+# Levid Lima
 
 **`FullStack Developer`**
 
-👋 Hi there! I’m Levid, a technology enthusiast who believes in the power of programming to make a real impact on people’s lives. Curiosity and a passion for learning have always driven me, leading me to pursue a career in software development.
+Hi there! I’m Levid, a technology enthusiast who believes in the power of programming to make a real impact on people’s lives. Curiosity and a passion for learning have always driven me, leading me to pursue a career in software development.
 ---
 
-### 🤖 Languages
+### Languages
 
 <img 
     align="left" 
@@ -106,5 +106,3 @@
 
 <br/>
 <br/>
-
-![DEVLevid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVLevid&theme=dark&show_icons=true&hide_border=false&layout=compact)
