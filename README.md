@@ -1,4 +1,4 @@
-# Levid Lima Souza
+# Levid Lima
 
 **`Software Engineer | Full Stack Developer | Tech Lead`**
 
